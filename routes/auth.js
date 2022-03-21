@@ -28,7 +28,4 @@ router.get( '/renew', validarJWT , revalidarToken );
 
 
 
-
-
-
 module.exports = router;
